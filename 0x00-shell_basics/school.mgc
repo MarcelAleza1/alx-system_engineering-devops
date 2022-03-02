@@ -1,2 +1,2 @@
-#!/bin/bash
-grep -rnw -e 'SCHOOL'
+0 string SCHOOL School data
+!:mime School
