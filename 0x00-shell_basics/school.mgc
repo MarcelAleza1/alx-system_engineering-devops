@@ -1,1 +1,1 @@
-find . -name 'SCHOOL*'
+grep -rnw -e 'SCHOOL'
