@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(cd "$(dirnmame "1")"; pwd -P)/$(basename "$1") "
+/bin/pwd
