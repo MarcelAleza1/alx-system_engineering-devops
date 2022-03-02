@@ -1,3 +1,2 @@
 #!/bin/bash
-listit = ls  
-echo $listit
+echo "$(ls)"
