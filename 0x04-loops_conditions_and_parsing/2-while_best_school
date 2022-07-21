@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# bash script to print 10 times "Best School" for is forbidden
+
+i = 1
+while ((i <= 10)); do
+	echo "Best School"
+	i=$((i+1))
+done
