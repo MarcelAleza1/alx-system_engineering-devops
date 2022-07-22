@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # display:
 #To infinity and beyond indefinitely
-#With a sleep 2 in between each iteration
-#I am invincible!!! when receiving a SIGTERM signal
+#and sleep 2 in between each iteration
+
 trap "echo I am invincible!!!" SIGTERM
 
 while true
